@@ -29,7 +29,9 @@ Firebase: Firebase is utilized for user authentication and real-time database up
 
 Material-UI: Material-UI provides the icons to maintain Gmail's visual consistency.
 
-Getting Started • To run this project locally, follow these simple steps: 
+Getting Started 
+
+• To run this project locally, follow these simple steps: 
 
 • Clone this repository to your local machine using git clone.
 

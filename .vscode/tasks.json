@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "gmail-clone",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - gmail-clone",
+			"detail": "react-scripts build"
+		}
+	]
+}
